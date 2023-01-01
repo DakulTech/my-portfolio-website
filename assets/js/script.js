@@ -57,9 +57,9 @@ $(document).ready(function () {
     // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
       strings: [
-        "frontend development",
-        "web designing",
-        "web Quality Assurance",
+        "frontend developer",
+        "web designer",
+        "QA/QC checker",
       ],
       loop: true,
       typeSpeed: 50,
