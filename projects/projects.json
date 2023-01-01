@@ -1,0 +1,46 @@
+[
+    {
+      "name": "DAKUL TECH",
+      "desc": "I developed a responsive website with basic html, CSS, Javascript and bootstrap. This is a simple landing page for a tech school. This website simply tell you about the tech school and how to get in touch with them.",
+     
+      "category": "Web",
+      "links": {
+        "view": "https://dakultech.github.io/index.html",
+        "code": "https://github.com/DakulTech/dakultech.github.io"
+      }
+    },
+    {
+      "name": "BUY & SELL",
+      "desc": "A simple Cryptocurrency Exchange (CEX) landing page built with CoinGecko API to update latest Cryptocurrency exchange rate from $ to &#8358 ",
+     
+      "category": "Web",
+      "links": {
+        "view": "https://buy-sell-crypto.netlify.app/",
+        "code": "https://github.com/DakulTech/Buy-Sell-Crypto"
+      }
+    },
+  
+    {
+      "name": "TODOLIST",
+      "desc": "A to-do-list app with great UI/UX built with JavaScript, CSS and HTML5.",
+      
+      "category": "Web",
+      "links": {
+        "view": "https://dakultechtodo.netlify.app/",
+        "code": "https://github.com/DakulTech/To-do-App-with-Javascript"
+  
+      }
+      },
+    {
+      "name": "WEATHER APP",
+      "desc": "A weather forecast app",
+      
+      "category": "Web",
+      "links": {
+        "view": "https://dakultech-weatherapp.netlify.app/",
+        "code": "https://github.com/DakulTech/Weather-Mobile-App-with-HTML-CSS-and-JavaScript"
+      }
+    }
+  
+  ]
+  
