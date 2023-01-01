@@ -1,3 +1,9 @@
 # my-portfolio
 
-created my portfolio using HTML, CSS and JavaScript!
+A responsive portfolio website built with
+HTML
+CSS
+CSS frameworks
+JavaScript
+TypeScript
+Package.js
