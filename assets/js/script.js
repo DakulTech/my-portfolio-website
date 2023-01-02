@@ -166,17 +166,17 @@ $(document).ready(function () {
     };
   
     // Start of Tawk.to Live Chat
-    var Tawk_API = Tawk_API || {},
-      Tawk_LoadStart = new Date();
-    (function () {
-      var s1 = document.createElement("script"),
-        s0 = document.getElementsByTagName("script")[0];
-      s1.async = true;
-      s1.src = "https://embed.tawk.to/554ccdbc0d3d022073fdccf00baa9e5e8f62746b";
-      s1.charset = "UTF-8";
-      s1.setAttribute("crossorigin", "*");
-      s0.parentNode.insertBefore(s1, s0);
-    })();
+   // var Tawk_API = Tawk_API || {},
+    //  Tawk_LoadStart = new Date();
+    //(function () {
+    //  var s1 = document.createElement("script"),
+    //    s0 = document.getElementsByTagName("script")[0];
+    //  s1.async = true;
+    //  s1.src = "https://embed.tawk.to/554ccdbc0d3d022073fdccf00baa9e5e8f62746b";
+    //  s1.charset = "UTF-8";
+     // s1.setAttribute("crossorigin", "*");
+     // s0.parentNode.insertBefore(s1, s0);
+   // })();
     // End of Tawk.to Live Chat
   
     /* ===== SCROLL REVEAL ANIMATION ===== */
@@ -199,17 +199,6 @@ $(document).ready(function () {
     srtop.reveal(".home .telegram", { interval: 600 });
     srtop.reveal(".home .instagram", { interval: 600 });
     srtop.reveal(".home .dev", { interval: 600 });
-  
-    /* SCROLL ABOUT */
-    srtop.reveal(".about .content h3", { delay: 200 });
-    srtop.reveal(".about .content .tag", { delay: 200 });
-    srtop.reveal(".about .content p", { delay: 200 });
-    srtop.reveal(".about .content .box-container", { delay: 200 });
-    srtop.reveal(".about .content .resumebtn", { delay: 200 });
-  
-    /* SCROLL SKILLS */
-    srtop.reveal(".skills .container", { interval: 200 });
-    srtop.reveal(".skills .container .bar", { delay: 400 });
   
     /* SCROLL EDUCATION */
     srtop.reveal(".education .box", { interval: 200 });
